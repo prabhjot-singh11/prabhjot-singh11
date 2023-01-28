@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning full stack technologies 
 - 💞️ I’m looking to collaborate on eb application
-- 📫 you can reach me through my linkdin 
+- 📫 you can reach me through my linkdien 
 
 <!---
 prabhjot-singh11/prabhjot-singh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
